@@ -3,8 +3,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-MJ-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mj-profile/)](https://www.linkedin.com/in/mj-profile/) [![Gmail Badge](https://img.shields.io/badge/-m.mjw.ma%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.mjw.ma@gmail.com)](mailto:m.mjw.ma@gmail.com)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img width="40%" align="right" alt="Github" src="http://rs.majiawei.com/b/20200811151757.svg"/>
-
 
 **🌱 Currently working on:**
 
