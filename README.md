@@ -17,7 +17,3 @@
 - **Focus:** Kubernetes, Docker, Microservice	
 - **Languages:** Go, Python, JavaScript
 - **Love:** ONE PIECE :heart:
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![github stats](https://github-readme-stats.vercel.app/api?show_icons=true&count_private=true&username=jwma)
